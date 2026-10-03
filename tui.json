@@ -1,0 +1,8 @@
+{
+    "$schema": "https://opencode.ai/tui.json",
+    "keybinds": {
+        "sidebar_toggle": "<leader>e",
+        "editor_open": "none"
+    }
+}
+
